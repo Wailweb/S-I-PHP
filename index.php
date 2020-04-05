@@ -1,7 +1,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Site PHP</title>
+  <title>Site PHP cookies</title>
 </head>
 <body>
 
